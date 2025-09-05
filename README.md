@@ -1,16 +1,46 @@
-## Hi there 👋
+# 🛡️ Wilson — Network & Cybersecurity Explorer
 
-<!--
-**moi-237/moi-237** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*"Parce qu’un réseau sans sécurité, c’est comme un château sans douves."*
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Qui suis-je ?
+Un passionné de **cybersécurité**, jongleur de paquets TCP, dompteur de VLAN et dompteur (gentil) de **pare-feu**.
+
+- 🔥 En mission : créer un SIEM de combat avec **Security Onion**  
+- 🧠 En entraînement : scripts d’audit réseau, détection brute force, CTF à la pelle  
+- 🎯 But ultime : Devenir l’ingénieur que les pirates détestent et que les DSI adorent
+
+---
+
+## Mes super-pouvoirs
+- **Réseau** : TCP/IP, VPN multi-site, routage de ninja  
+- **Sécurité** : Nmap, Snort, Suricata, Metasploit (côté éthique, promis)  
+- **Automatisation** : Python, Bash, un peu de magie noire  
+- **Monitoring** : Zabbix, ELK, Security Onion  
+- **OS** : Kali, Debian, Windows (quand il fait pas de caprices)
+
+---
+
+## Mes arènes (projets GitHub)
+1. `network-automation` — Scripts pour scanner un LAN et générer des rapports sexy en PDF  
+2. `kali-lab-vuln` — Mon laboratoire de failles préférées + write-up détaillé  
+3. `zabbix-dashboard-school` — Surveiller Internet d’une école comme un pro  
+4. `so-sensor-rules` — Règles custom pour bloquer brute force & scans  
+5. `ctf-writeups` — Mes victoires, mes fails et mes scripts préférés
+
+---
+
+## Stats (parce que les recruteurs adorent ça)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ton-username&show_icons=true&theme=radical)
+
+---
+
+## Me trouver
+- 📧 ton.email@exemple.com  
+- 💼 linkedin.com/in/tonprofil  
+- 🌍 Douala, Cameroun
+
+---
+
+*"Si tu lis jusqu’ici, tu sais déjà que je ne dors pas pendant les mises à jour système."*
