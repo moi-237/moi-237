@@ -1,6 +1,6 @@
 # 🛡️ Wilson — Network & Cybersecurity Explorer
 
-*"Parce qu’un réseau sans sécurité, c’est comme un château sans douves."*
+*"**Des réseaux solides, une cybersécurité sans faille..**"*
 
 ---
 
