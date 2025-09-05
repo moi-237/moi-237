@@ -5,16 +5,15 @@
 ---
 
 ## Qui suis-je ?
-Un passionné de **cybersécurité**, jongleur de paquets TCP, dompteur de VLAN et dompteur (gentil) de **pare-feu**.
+🔥🧠 Architecte de l'infrastructure et gardien de la donnée, mon expertise se situe à la croisée des **réseaux** et de la **cybersécurité**. 🧠🔥
 
-- 🔥 En mission : créer un SIEM de combat avec **Security Onion**  
-- 🧠 En entraînement : scripts d’audit réseau, détection brute force, CTF à la pelle  
-- 🎯 But ultime : Devenir l’ingénieur que les pirates détestent et que les DSI adorent
+🎯🎯Au quotidien, je conçois, j'optimise et je sécurise les réseaux qui constituent la colonne vertébrale des systèmes d'information. Ma mission va au-delà de la simple maintenance : il s'agit d'anticiper les pannes, de garantir une performance optimale et de construire une forteresse numérique résiliente face aux cybermenaces toujours plus sophistiquées. 🎯🎯
 
 ---
 
 ## 🧠 Mes langages de combat
 
+>ce sont les langages que j'utilise en fonction de mes **objectifs**
 <p align="center">
   <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Bash/Shell-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
@@ -29,7 +28,8 @@ Un passionné de **cybersécurité**, jongleur de paquets TCP, dompteur de VLAN 
 >en fonction des domaines (Pentest, Blue Team, Forensic, Malware, Red Team/Offensive, DevSecOps).
 ---
 
-## Mes super-pouvoirs
+## Mes Outils
+> Les outils que j'utilise constament pour mes **taches** 
 - **Réseau** : TCP/IP, VPN multi-site, routage de ninja  
 - **Sécurité** : Nmap, Snort, Suricata, Metasploit (côté éthique, promis)  
 - **Automatisation** : Python, Bash, un peu de magie noire  
@@ -47,8 +47,10 @@ Un passionné de **cybersécurité**, jongleur de paquets TCP, dompteur de VLAN 
 
 ---
 
-## Stats (parce que les recruteurs adorent ça)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ton-username&show_icons=true&theme=radical)
+## Stats
+> Mes statistiques sur **Github**
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=moi-237&show_icons=true&theme=radical)
 
 ---
 
