@@ -61,7 +61,7 @@
 
 ## Me trouver
 - 📧 wilsontessoh@yahoo.com  
-- 💼 www.linkedin.com/in/tt-wilson
+- 💼 www.linkedin.com/in/wilsontessoh
 - 🌍 Douala, Cameroun
 
 ---
