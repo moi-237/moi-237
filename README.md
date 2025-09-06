@@ -44,8 +44,8 @@
 ---
 
 ## Mes arènes (projets GitHub)
-1. `network-automation` — Scripts pour scanner un LAN et générer des rapports sexy en PDF  
-2. `kali-lab-vuln` — Mon laboratoire de failles préférées + write-up détaillé  
+1. `DEEPMAP` — Scripts pour scanner un LAN et générer des rapports sexy en PDF  
+2. `KB-Rec` — Keylogger permet d'enregistrer les frappes du clavier  
 3. `zabbix-dashboard-school` — Surveiller Internet d’une école comme un pro  
 4. `so-sensor-rules` — Règles custom pour bloquer brute force & scans  
 5. `ctf-writeups` — Mes victoires, mes fails et mes scripts préférés
