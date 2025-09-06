@@ -29,7 +29,8 @@
 
 >en fonction des domaines (Pentest, Blue Team, Forensic, Malware, Red Team/Offensive, DevSecOps).
 
-![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=moi-237&layout=compact&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=moi-237&layout=compact&theme=radical&cache_seconds=18)
+
 
 ---
 
